@@ -19,3 +19,9 @@ d ->Archivos, Directorios o carpetas
 % clear <- Ayuda a limpiar la terminal
 
 nano -> Es el editor de texto simple basado en linea de comandos
+
+############################     MANIPULACION DE CARPETAS Y ARCHIVOS     ############################
+
+% mkdir 'nombre de carpeta' <- Sirve para crear Carpetas
+% mkdir /Users/juancarlos/Downloads/'nombre de carpeta' <- Sirve para crear Carpetas de forma especifica
+
