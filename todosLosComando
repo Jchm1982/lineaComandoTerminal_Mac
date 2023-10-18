@@ -19,9 +19,6 @@ d ->Archivos, Directorios o carpetas
 
 % clear <- Ayuda a limpiar la terminal
 
-nano -> Es el editor de texto simple basado en linea de comandos
-
-
 
 ############################     MANIPULACION DE CARPETAS Y ARCHIVOS     ############################
 
@@ -41,3 +38,8 @@ nano -> Es el editor de texto simple basado en linea de comandos
 
 
 ############################     VER Y MODIFICAR ARCHIVOS     ############################
+
+% nano 'name arhivo' -> Es el editor de texto simple basado en linea de comandos
+% nano 'nombre archivo' -> Tambien sirve para crear archivos
+
+% cat 'nombre archivo' -> Sirve para ver el contenido de mi archivo
