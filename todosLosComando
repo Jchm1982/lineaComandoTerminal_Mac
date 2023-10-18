@@ -11,6 +11,7 @@ d ->Archivos, Directorios o carpetas
 % pwd <- Permite verificar la ruta absoluta en donde nos encontramos
 % cd<- Nos manda directo al Home
 % cd <- Sirve para cambiar de directorio
+% cd /Users/juancarlos/Downloads/ <- Sirve para cambiar de directorio de forma absoluta
 % cd .. <- Sirve para regresar o salir de la carpeta
 % which ls <- No ayuda a validar donde existe un programa en nuestra comutadora
 % echo $PATH <- Para revisar mi variable de ruta
@@ -24,4 +25,12 @@ nano -> Es el editor de texto simple basado en linea de comandos
 
 % mkdir 'nombre de carpeta' <- Sirve para crear Carpetas
 % mkdir /Users/juancarlos/Downloads/'nombre de carpeta' <- Sirve para crear Carpetas de forma especifica
+% touch 'nombre'.txt <- Sirve para crear un archivo vacio
+% cp data.txt ./data(a la carpeta la cual se debe copiar) <- Sirve para copiar un archivo -- el . indica que va dentro de la carpeta -- 
 
+% -r <- Recursivo, sirve para copiar el contenido de las carpetas
+% cp -r 'nombre de carpeta' ./'directorio al cual se copiara'<-
+
+% mv 'nombre del archivo para mover' /'a donde lo queremo mover' <- Sirve para mover archivos
+% rm 'nombre del archivo a eliminar' <-Sirve para eliminar archivos
+% rm -r ./data/data <-Sirve para eliminar carpetas
