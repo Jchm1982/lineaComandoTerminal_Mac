@@ -3,4 +3,4 @@ Estos son los comandos de Terminal:
 % l <- Muestra un listado de los archivos
 % ls <- Muestra el contenido de un directorio
 % ls -a <- Muestra un listado de los archivos ocultos
-% which ls <- Muestra un listado de los archivos ocultos
+% which ls <- No ayuda a validar donde existe un programa en nuestra comutadora
