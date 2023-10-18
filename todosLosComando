@@ -49,5 +49,9 @@ d ->Archivos, Directorios o carpetas
 % su -> Super User
 % sudo passwd -> Para configurar una nueva contraseña para el SU
 % su 'password' -> Para entrar como superusuario
+% exit -> Para salir como superusuario
 
 
+% reboot -> Para reinicar el Sistema operativo
+% sudo halt -> Para apagar la computadora
+% sudo init 0 -> Para apagar por completo la computadora
