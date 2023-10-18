@@ -43,3 +43,11 @@ d ->Archivos, Directorios o carpetas
 % nano 'nombre archivo' -> Tambien sirve para crear archivos
 
 % cat 'nombre archivo' -> Sirve para ver el contenido de mi archivo
+
+
+############################     COMANDOS COMO SUPER USUARIO     ############################
+% su -> Super User
+% sudo passwd -> Para configurar una nueva contraseña para el SU
+% su 'password' -> Para entrar como superusuario
+
+
