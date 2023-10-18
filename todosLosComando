@@ -8,10 +8,8 @@ Estos son los comandos de Terminal:
 
 d ->Archivos, Directorios o carpetas
 
-
-
-
-
+% pwd <- Permite verificar la ruta absoluta en donde nos encontramos
+%cd <- Sirve para cambiar de directorio
 % which ls <- No ayuda a validar donde existe un programa en nuestra comutadora
 % echo $PATH <- Para revisar mi variable de ruta
 % tr ':' '\n' <<< $PATH <- Para formatear y revisar mi variable de ruta sea más legible
