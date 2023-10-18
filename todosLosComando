@@ -21,7 +21,11 @@ d ->Archivos, Directorios o carpetas
 
 nano -> Es el editor de texto simple basado en linea de comandos
 
+
+
 ############################     MANIPULACION DE CARPETAS Y ARCHIVOS     ############################
+
+
 
 % mkdir 'nombre de carpeta' <- Sirve para crear Carpetas
 % mkdir /Users/juancarlos/Downloads/'nombre de carpeta' <- Sirve para crear Carpetas de forma especifica
@@ -34,3 +38,6 @@ nano -> Es el editor de texto simple basado en linea de comandos
 % mv 'nombre del archivo para mover' /'a donde lo queremo mover' <- Sirve para mover archivos
 % rm 'nombre del archivo a eliminar' <-Sirve para eliminar archivos
 % rm -r ./data/data <-Sirve para eliminar carpetas
+
+
+############################     VER Y MODIFICAR ARCHIVOS     ############################
