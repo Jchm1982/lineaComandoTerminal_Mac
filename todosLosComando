@@ -4,3 +4,6 @@ Estos son los comandos de Terminal:
 % ls <- Muestra el contenido de un directorio
 % ls -a <- Muestra un listado de los archivos ocultos
 % which ls <- No ayuda a validar donde existe un programa en nuestra comutadora
+
+% echo $PATH <- Para revisar mi variable de ruta
+% tr ':' '\n' <<< $PATH <- Para formatear y revisar mi variable de ruta sea más legible
