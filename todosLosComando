@@ -1,4 +1,6 @@
 Estos son los comandos de Terminal:
 
-% ls <- Muestra un listado de los archivos
+% l <- Muestra un listado de los archivos
+% ls <- Muestra el contenido de un directorio
 % ls -a <- Muestra un listado de los archivos ocultos
+% which ls <- Muestra un listado de los archivos ocultos
